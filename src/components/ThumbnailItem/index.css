@@ -1,0 +1,24 @@
+/* Write your code here. */
+
+.thumbnail-image {
+  width: 60px;
+  height: 60px;
+  padding: 0px;
+  border-radius: 7px;
+  opacity: 0.3;
+}
+.created-by {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #64748b;
+}
+.image-btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.active {
+  opacity: 1;
+}
